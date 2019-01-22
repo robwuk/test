@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/robwuk/test.git"
   },
-  "scripts": {
-  "watch": "nodemon ./start.js",
-    "start": "node start.js"
-  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
